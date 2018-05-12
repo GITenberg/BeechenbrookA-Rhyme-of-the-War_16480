@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6740'
     url: http://www.gutenberg.org/2009/agents/6740
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16480#BeechenbrookA-Rhyme-of-the-War
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2005-08-08'
 gutenberg_type: Text
