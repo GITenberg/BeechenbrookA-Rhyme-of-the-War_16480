@@ -1,0 +1,29 @@
+_repo: BeechenbrookA-Rhyme-of-the-War_16480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Preston, Margaret Junkin
+    birthdate: 1820
+    deathdate: 1897
+    gutenberg_agent_id: '6740'
+    url: http://www.gutenberg.org/2009/agents/6740
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Poetry -- Confederate'
+- !lcc 'PS'
+title: 'Beechenbrook
+
+  A Rhyme of the War'
+url: http://www.gutenberg.org/ebooks/16480
